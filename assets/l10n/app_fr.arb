@@ -4,59 +4,59 @@
 
 
     "permissionsTitle": "PERMISSIONS",
-    "permissionsTitle_description": "To use the camera, you need to give permission to your camera, microphone and storage.",
-    "giveCameraPermission": "Give camera permission",
-    "giveMicrophonePermission": "Give microphone permission",
-    "giveStoragePermission": "Give storage permission",
+    "permissionsTitle_description": "Pour utiliser l'appareil photo, vous devez autoriser l'accès à votre caméra, votre microphone et votre espace de stockage.",
+    "giveCameraPermission": "autoriser l'accès à l'appareil Photo",
+    "giveMicrophonePermission": "autoriser l'accès au microphone",
+    "giveStoragePermission": "autoriser l'accès à l'espace de stockage",
 
-    "savePathTitle": "SAVE PATH",
-    "savePathTitle_description": "Select a save path. Typically, images get saved to the DCIM path on Android.",
-    "selectPath": "Select path",
+    "savePathTitle": "DOSSIER DE SAUVEGARDE",
+    "savePathTitle_description": "Sélectionnez un chemin de sauvegarde. En règle générale, les images sont enregistrées dans le dossier DCIM sur Android",
+    "selectPath": "Sélectionner le chemin.",
 
-    "welcomeTitle": "WELCOME",
-    "welcomeTitle_description": "Congratulations! You are ready to use this camera app.",
-    "getStarted": "Get started",
+    "welcomeTitle": "BIENVENUE",
+    "welcomeTitle_description": "Félicitations! Vous êtes prêt à utiliser cette application pour appareil photo.",
+    "getStarted": "C'est parti!",
 
 
 
     "@_CAMERA_PAGE": {},
 
-    "switchToPictureMode": "Switch to picture mode",
-    "switchToVideoRecordingMode": "Switch to video recording mode",
+    "switchToPictureMode": "Basculer vers l'appareil photo.",
+    "switchToVideoRecordingMode": "Basculer vers la caméra.",
 
-    "openCapturedPictureOrVideo": "Open captured picture or video",
+    "openCapturedPictureOrVideo": "Ouvrir les photos ou vidéos enregistrées.",
 
-    "takePicture": "Take picture",
+    "takePicture": "Prendre une photo",
 
-    "startRecordingVideo": "Start recording video",
-    "pauseVideo": "Pause video",
-    "resumeVideo": "Resume video",
-    "stopVideo": "Stop video",
+    "startRecordingVideo": "Enregistrer une video",
+    "pauseVideo": "Mettre la vidéo en pause",
+    "resumeVideo": "Reprendre la vidéo",
+    "stopVideo": "Arreter la vidéo",
 
-    "exposureMode": "Exposure mode",
-    "exposureModeAuto": "AUTO EXPOSURE",
-    "exposureModeLocked": "LOCKED EXPOSURE",
-    "defaultExposure": "Default exposure",
+    "exposureMode": "Mode d'exposition",
+    "exposureModeAuto": "EXPOSITION AUTOMATIQUE",
+    "exposureModeLocked": "EXPOSITION VEROUILLEE",
+    "defaultExposure": Exposition par défaut",
 
-    "flashlight": "Flashlight",
+    "flashlight": "Flash",
 
-    "lockCaptureOrientation": "Lock auto orientation [RESTART REQUIRED]",
-    "lockCaptureOrientation_description": "Lock orientation to portrait mode, no matter if automatic rotation mode is activated",
+    "lockCaptureOrientation": "Verrouiller la rotation automatique [REDEMARRAGE REQUIS]",
+    "lockCaptureOrientation_description": "Verrouiller l'orientation en mode portrait, peu importe si le mode de rotation automatique est activé",
 
-    "showNavigationBar": "Show navigation bar [RESTART REQUIRED]",
-    "showNavigationBar_description": "Always show the Android navigation bar",
+    "showNavigationBar": "Montrer la barre de navigation.[REDEMARRAGE REQUIS]",
+    "showNavigationBar_description": "Toujours afficher la barre de navigation Android",
 
-    "focusMode": "Focus mode",
-    "focusModeAuto": "AUTO FOCUS",
-    "focusModeLocked": "LOCKED FOCUS",
+    "focusMode": "Mode de mise au point",
+    "focusModeAuto": "MISE AU POINT AUTO",
+    "focusModeLocked": "MISE AU POINT VEROUILLEE",
 
-    "reset": "Reset",
+    "reset": "Reinitialiser",
 
-    "flipToFrontCamera": "Flip to front camera",
-    "flipToRearCamera": "Flip to rear camera",
+    "flipToFrontCamera": "Basculer vers la caméra frontale",
+    "flipToRearCamera": "Basculer vers la caméra arrière",
 
     "autoSmall": "AUTO",
-    "lockedSmall": "LOCKED",
+    "lockedSmall": "VEROUILLE",
 
     "off": "Off",
 
@@ -66,65 +66,65 @@
 
 
 
-    "back": "Back",
-    "next": "Next",
-    "settings": "Settings",
+    "back": "Retour",
+    "next": "Suivant",
+    "settings": "Réglages",
 
-    "appSettings": "APP SETTINGS",
+    "appSettings": "REGLAGES DE L'APPLICATION",
     
     "language": "Language",
-    "language_description": "Change the app language",
-    "systemLanguage": "System language",
+    "language_description": "Changer la langue de l'application",
+    "systemLanguage": "Langue du système",
 
-    "theme": "Theme",
-    "theme_description": "Change the app theme",
-    "themeSystem": "System theme",
-    "themeLight": "Light theme",
-    "themeDark": "Dark theme",
+    "theme": "Thème",
+    "theme_description": "Changer le thème de l'application",
+    "themeSystem": "Thème système",
+    "themeLight": "Thème clair",
+    "themeDark": "Thème sombre",
 
-    "enableModeRow": "Enable focus and exposure mode row",
-    "enableModeRow_description": "Enable a row at the bottom to switch the exposure and focus modes",
+    "enableModeRow": "Activer la barre des modes de mise au point et d'exposition",
+    "enableModeRow_description": "Activez une ligne en bas pour changer les modes d'exposition et de mise au point",
 
-    "enableZoomSlider": "Enable zoom slider",
-    "enableZoomSlider_description": "When enabled, a slider will appear to manually adjust the zoom",
+    "enableZoomSlider": "Artiver la barre de zoom",
+    "enableZoomSlider_description": "Lorsqu'il est activé, un curseur apparaîtra pour ajuster manuellement le zoom",
 
-    "enableExposureSlider": "Enable exposure slider",
-    "enableExposureSlider_description": "When enabled, a slider will appear to manually adjust the exposure",
+    "enableExposureSlider": "Activer le curseur d'exposition",
+    "enableExposureSlider_description": "Lorsqu'il est activé, un curseur apparaîtra pour régler manuellement l'exposition",
 
-    "cameraBehaviour": "CAMERA BEHAVIOUR",
+    "cameraBehaviour": "COMPORTEMENT de L'APPAREIL PHOTO",
 
-    "format": "Image format",
-    "format_description": "Change the image format (default: JPEG/JPG)",
+    "format": "Format d'image",
+    "format_description": "Changer le format d'image (défaut: JPEG/JPG)",
 
-    "resolution": "Resolution",
-    "resolution_description": "Change the camera resolution",
+    "resolution": "Résolution",
+    "resolution_description": "Changer la résolution de la photo",
 
-    "shutterSound": "Disable shutter sound",
-    "shutterSound_description": "Disable the shutter sound when taking a picture",
+    "shutterSound": "Désactiver le son de l'obturateur",
+    "shutterSound_description": "Désactiver le son de l'obturateur lors de la prise de vue",
 
-    "flipPhotosFrontCamera": "Flip photos on front camera",
-    "flipPhotosFrontCamera_description": "Flip photos horizontally that were taken with front camera",
+    "flipPhotosFrontCamera": "Retourner les photos sur l'appareil photo frontal",
+    "flipPhotosFrontCamera_description": "Retournez horizontalement les photos prises avec l'appareil photo frontal",
 
-    "startWithFrontCamera": "Start with front camera",
-    "startWithFrontCamera_description": "Always start with front camera when opening the app",
+    "startWithFrontCamera": "Commencez avec la caméra frontale",
+    "startWithFrontCamera_description": "Commencez toujours par la caméra frontale lors de l'ouverture de l'application",
 
-    "disableAudio": "Disable audio",
-    "disableAudio_description": "Disable audio when recording a video",
+    "disableAudio": "Désactiver le son",
+    "disableAudio_description": "Désactiver le son lors de l'enregistrement vidéo",
 
-    "saving": "SAVING",
+    "saving": "SAUVEGARDER",
 
-    "imageCompressionQuality": "Image compression quality",
-    "imageCompressionQuality_description": "Lower compression quality means smaller size but worse quality, while higher compression quality means bigger size but better quality",
+    "imageCompressionQuality": "Qualité de compression des images",
+    "imageCompressionQuality_description": "Une qualité de compression inférieure signifie une taille plus petite mais une qualité inférieure, tandis qu'une qualité de compression supérieure signifie une taille plus grande mais une meilleure qualité",
 
-    "keepEXIFMetadata": "Save EXIF data",
-    "keepEXIFMetadata_description": "Save EXIF metadata of the taken picture like phone model, GPS location, etc.",
+    "keepEXIFMetadata": "Sauvegarder les métadonnées EXIF",
+    "keepEXIFMetadata_description": "Enregistrez les métadonnées EXIF de la photo prise comme le modèle de téléphone, la position GPS, etc.",
 
-    "savePath": "Save path",
-    "savePath_description": "Current path: {path}",
+    "savePath": "sauvegarder le chemin",
+    "savePath_description": "Chemin courant: {path}",
     "choosePath": "Choose path",
 
-    "onboardingScreen": "Onboarding screen",
-    "onboardingScreen_description": "Open the initial onboarding screen",
+    "onboardingScreen": "Écran d'accueil",
+    "onboardingScreen_description": "Ouvrir l'écran d'accueil initial",
 
 
 
@@ -132,8 +132,8 @@
 
 
 
-    "more": "MORE",
-    "less": "SHOW LESS",
+    "more": "PLUS",
+    "less": "VOIR MOINS",
     "version": "Version {versionNumber}",
-    "license": "The code is licensed under the GPLv3 on GitHub. If you encounter any problems or want to request a feature, please open an issue on GitHub. Thanks!"
+    "license": "Le code est sous licence GPLv3 sur GitHub. Si vous rencontrez des problèmes ou souhaitez demander une fonctionnalité, veuillez ouvrir un ticket sur GitHub. Merci!"
 }
